@@ -1,10 +1,22 @@
 # Stock-Market-Analysis-using-pandas
-Stock Market Analysis using pandas, numpy, matplotlib, on data extracted from Yahoo Finance
+Stock Market Analysis using pandas, numpy, matplotlib, on data extracted from Yahoo Finance. Aim of the project is to understand the behaviour of random process, on example Stock Market. 
 
-Stock Indiex tickers: ^FTSE, ^BSESN, ^DJI, USDGBP, USDINR
+Stock Indiex tickers: 
+- `^FTS`
+- `^BSESN` 
+- `^DJI` 
+- `USDGBP` 
+- `USDINR`
 
-Contributors:
+## Packages used:
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `statsmodels`
+- `pandas_datareader`
+- `datetime`
 
-@SahilPatki30082002
-
-@suvadityamuk
+## Contributors
+- *Suvaditya Mukherjee* - [@suvadityamuk](https://github.com/suvadityamuk)
+- *Sahil Patki* - [@SahilPatki30082002](https://github.com/sahilpatki30082002)
+- *Maitri Shah*
