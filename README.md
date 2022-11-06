@@ -4,5 +4,7 @@ Stock Market Analysis using pandas, numpy, matplotlib, on data extracted from Ya
 Stock Indiex tickers: ^FTSE, ^BSESN, ^DJI, USDGBP, USDINR
 
 Contributors:
+
 @SahilPatki30082002
+
 @suvadityamuk
