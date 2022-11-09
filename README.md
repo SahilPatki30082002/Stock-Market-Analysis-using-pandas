@@ -19,4 +19,5 @@ Stock Indiex tickers:
 ## Contributors
 - *Suvaditya Mukherjee* - [@suvadityamuk](https://github.com/suvadityamuk)
 - *Sahil Patki* - [@SahilPatki30082002](https://github.com/sahilpatki30082002)
-- *Maitri Shah*
+- *Maitri Shah* - [@maitri01](https://github.com/maitri01)
+
